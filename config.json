@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersender",
+        "uuid": 20368260,
+        "checksum": "my5lms"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
